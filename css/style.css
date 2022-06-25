@@ -1,15 +1,15 @@
-form{
-    background-color: darkblue;
-    text-align: center;
-    display: grid;
-    margin: 15%;
-    margin-top: auto;
-    margin-left: 15%;
-    margin-right: 15%;
-
-    
-
+* {
+  text-decoration: white;
 }
-input{
-    margin: 15%;
+
+form {
+  background-color: gray;
+  text-align: center;
+  display: grid;
+  margin: 15%;
+  margin-top: auto;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+input {
 }
